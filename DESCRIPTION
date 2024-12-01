@@ -1,0 +1,10 @@
+Package: convert
+Type: Package
+Title: convert value
+Version: 0.1.0
+Author: Kelompok 6 Komstat
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: convert value usage 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
